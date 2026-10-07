@@ -2,6 +2,8 @@
 
 Your desktop doesn't have to be a still photo. LiveDesk puts videos, animated GIFs and live, interactive scenes behind your desktop icons — an aquarium where the fish dart away from your mouse, fireworks you launch with a click, a sky that shows your real weather. It ships with 27 wallpapers ready to go, and it steps out of the way when you're working, pausing itself whenever an app is maximized or a game goes fullscreen.
 
+> 📥 **Download:** Grab the latest installer from the **[Releases](../../releases)** panel on the right.
+
 ## Features
 
 - 🎞️ **Live Wallpapers** — any video, animated GIF or picture, looping smoothly behind your icons.
