@@ -55,6 +55,12 @@ distributed, remains permitted under Section 1; or
 **(e)** use the Software, or any technical information derived from it,
 to develop, or assist in developing, a competing product or service.
 
+**(f)** Nothing in this License limits the rights you have under the GNU
+LGPL for the open-source libraries LiveDesk uses (Qt, Qt WebEngine and
+FFmpeg, listed under Third-party components), including replacing them
+with your own versions and reverse engineering for the sole purpose of
+debugging such replacements.
+
 ### 3. OWNERSHIP
 
 The Software is licensed, not sold. The copyright holder retains all
@@ -108,12 +114,19 @@ https://www.gnu.org/licenses/old-licenses/lgpl-2.1.html. Source code for
 these libraries is available from https://www.qt.io and
 https://ffmpeg.org.
 
+**Lively Wallpaper:** LiveDesk is an independent app. It is not made by,
+affiliated with or endorsed by Lively Wallpaper or its developer
+(rocksdanister); "Lively" is mentioned only to say LiveDesk can open
+Lively-format wallpapers. No Lively Wallpaper program code is included.
+
 **Wallpaper content:** wallpapers you add or import (including Lively
 Wallpaper packages) remain the property of their authors and are subject
 to their own licenses.
 
 **Built-in wallpapers.** *Neon Drift, Aurora Clock, Particle Field, Ripple
-Pond, Live Sky, Ocean Waves, Code Rain and Galaxy* are original works
+Pond, Live Sky, Ocean Waves, Code Rain, Galaxy, Aquarium, Firefly Meadow,
+Lava Lamp, Sand Garden, Northern Lights, Fireworks, Snow Globe and
+Starfield Warp* are original works
 covered by this License. The following built-in wallpapers come from the
 Lively Wallpaper collection and are **not** covered by this License; each
 is distributed under its own license, whose full text ships in that
